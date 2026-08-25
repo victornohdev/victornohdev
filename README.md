@@ -14,10 +14,10 @@
 
 ##  Sobre mí
 
--  Estudiante de Ingeniería en Sistemas Computacionales
--  Interesado en desarrollo web y redes
--  Enfocado en proyectos prácticos
--  Actualmente aprendiendo más sobre redes y desarrollo web
+-  Estudiante de Ingeniería en Sistemas Computacionales.
+-  Interesado en desarrollo web y redes.
+-  Enfocado en proyectos prácticos.
+-  Actualmente aprendiendo más sobre redes y desarrollo web.
 
 ---
 
